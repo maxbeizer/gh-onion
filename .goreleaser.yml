@@ -1,7 +1,7 @@
-project_name: gh-extension-template
+project_name: gh-onion
 
 builds:
-  - binary: gh-extension-template
+  - binary: gh-onion
     goos:
       - darwin
       - linux
