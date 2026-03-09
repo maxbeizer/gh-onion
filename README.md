@@ -1,6 +1,6 @@
 # gh-onion 🧅
 
-A [GitHub CLI](https://cli.github.com/) extension that brings The Onion to your terminal. Bundled dataset, zero API dependencies, pure fun.
+A [GitHub CLI](https://cli.github.com/) extension that brings [The Onion](https://theonion.com/) to your terminal. Bundled dataset, zero API dependencies, pure fun.
 
 ## Install
 
