@@ -9,4 +9,5 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 ### Added
 
+- `gh onion commit` subcommand — outputs a random headline as a conventional commit message
 - Initial release
